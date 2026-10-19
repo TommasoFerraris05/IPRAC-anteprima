@@ -1,0 +1,402 @@
+[
+  {
+    "id": "p01",
+    "titolo": "Casa F.",
+    "indicazione": "Selezione del titolare · vista principale",
+    "pagina": "progetti-casa-f.html",
+    "orientamento": "landscape",
+    "file": "foto/p01.webp"
+  },
+  {
+    "id": "p02",
+    "titolo": "Studio dermatologico",
+    "indicazione": "Selezione del titolare · vista principale",
+    "pagina": "progetti-studio-dermatologico.html",
+    "orientamento": "landscape",
+    "file": "foto/p02.webp"
+  },
+  {
+    "id": "p03",
+    "titolo": "Ufficio IPRAC",
+    "indicazione": "Selezione del titolare · vista principale",
+    "pagina": "progetti-ufficio-iprac.html",
+    "orientamento": "landscape",
+    "file": "foto/p03.webp"
+  },
+  {
+    "id": "p04",
+    "titolo": "Attico Villa Diana",
+    "indicazione": "Selezione del titolare · vista principale",
+    "pagina": "progetti-attico-villa-diana.html",
+    "orientamento": "landscape",
+    "file": "foto/p04.webp"
+  },
+  {
+    "id": "studio-01",
+    "titolo": "Studio IPRAC",
+    "indicazione": "Fotografia degli ambienti dello studio",
+    "pagina": "studio.html",
+    "orientamento": "landscape",
+    "file": "foto/studio-01.webp"
+  },
+  {
+    "id": "studio-02",
+    "titolo": "Lavoro e metodo",
+    "indicazione": "Scatto autentico di riunione o tavolo tecnico",
+    "pagina": "studio.html",
+    "orientamento": "portrait",
+    "file": "foto/studio-02.webp"
+  },
+  {
+    "id": "service-01-01",
+    "titolo": "Architettura",
+    "indicazione": "Immagine rappresentativa della disciplina, da approvare",
+    "pagina": "competenze-architettura.html",
+    "orientamento": "landscape",
+    "file": "foto/service-01-01.webp"
+  },
+  {
+    "id": "service-01-02",
+    "titolo": "Architettura / dettaglio",
+    "indicazione": "Dettaglio tecnico originale o fotografia di lavorazione",
+    "pagina": "competenze-architettura.html",
+    "orientamento": "portrait",
+    "file": "foto/service-01-02.webp"
+  },
+  {
+    "id": "service-02-01",
+    "titolo": "Direzione lavori",
+    "indicazione": "Immagine rappresentativa della disciplina, da approvare",
+    "pagina": "competenze-direzione-lavori.html",
+    "orientamento": "landscape",
+    "file": "foto/service-02-01.webp"
+  },
+  {
+    "id": "service-02-02",
+    "titolo": "Direzione lavori / dettaglio",
+    "indicazione": "Dettaglio tecnico originale o fotografia di lavorazione",
+    "pagina": "competenze-direzione-lavori.html",
+    "orientamento": "portrait",
+    "file": "foto/service-02-02.webp"
+  },
+  {
+    "id": "service-03-01",
+    "titolo": "Energia",
+    "indicazione": "Immagine rappresentativa della disciplina, da approvare",
+    "pagina": "competenze-energia.html",
+    "orientamento": "landscape",
+    "file": "foto/service-03-01.webp"
+  },
+  {
+    "id": "service-03-02",
+    "titolo": "Energia / dettaglio",
+    "indicazione": "Dettaglio tecnico originale o fotografia di lavorazione",
+    "pagina": "competenze-energia.html",
+    "orientamento": "portrait",
+    "file": "foto/service-03-02.webp"
+  },
+  {
+    "id": "service-04-01",
+    "titolo": "Acustica",
+    "indicazione": "Immagine rappresentativa della disciplina, da approvare",
+    "pagina": "competenze-acustica.html",
+    "orientamento": "landscape",
+    "file": "foto/service-04-01.webp"
+  },
+  {
+    "id": "service-04-02",
+    "titolo": "Acustica / dettaglio",
+    "indicazione": "Dettaglio tecnico originale o fotografia di lavorazione",
+    "pagina": "competenze-acustica.html",
+    "orientamento": "portrait",
+    "file": "foto/service-04-02.webp"
+  },
+  {
+    "id": "service-05-01",
+    "titolo": "Sostanze nocive",
+    "indicazione": "Immagine rappresentativa della disciplina, da approvare",
+    "pagina": "competenze-sostanze-nocive.html",
+    "orientamento": "landscape",
+    "file": "foto/service-05-01.webp"
+  },
+  {
+    "id": "service-05-02",
+    "titolo": "Sostanze nocive / dettaglio",
+    "indicazione": "Dettaglio tecnico originale o fotografia di lavorazione",
+    "pagina": "competenze-sostanze-nocive.html",
+    "orientamento": "portrait",
+    "file": "foto/service-05-02.webp"
+  },
+  {
+    "id": "service-06-01",
+    "titolo": "Antincendio",
+    "indicazione": "Immagine rappresentativa della disciplina, da approvare",
+    "pagina": "competenze-antincendio.html",
+    "orientamento": "landscape",
+    "file": "foto/service-06-01.webp"
+  },
+  {
+    "id": "service-06-02",
+    "titolo": "Antincendio / dettaglio",
+    "indicazione": "Dettaglio tecnico originale o fotografia di lavorazione",
+    "pagina": "competenze-antincendio.html",
+    "orientamento": "portrait",
+    "file": "foto/service-06-02.webp"
+  },
+  {
+    "id": "p01",
+    "titolo": "Casa F.",
+    "indicazione": "Selezione del titolare · vista principale",
+    "pagina": "progetti-casa-f.html",
+    "orientamento": "landscape",
+    "file": "foto/p01.webp"
+  },
+  {
+    "id": "p02",
+    "titolo": "Studio dermatologico",
+    "indicazione": "Selezione del titolare · vista principale",
+    "pagina": "progetti-studio-dermatologico.html",
+    "orientamento": "landscape",
+    "file": "foto/p02.webp"
+  },
+  {
+    "id": "p03",
+    "titolo": "Ufficio IPRAC",
+    "indicazione": "Selezione del titolare · vista principale",
+    "pagina": "progetti-ufficio-iprac.html",
+    "orientamento": "landscape",
+    "file": "foto/p03.webp"
+  },
+  {
+    "id": "p04",
+    "titolo": "Attico Villa Diana",
+    "indicazione": "Selezione del titolare · vista principale",
+    "pagina": "progetti-attico-villa-diana.html",
+    "orientamento": "landscape",
+    "file": "foto/p04.webp"
+  },
+  {
+    "id": "p05",
+    "titolo": "Villa Staub",
+    "indicazione": "Selezione del titolare · vista principale",
+    "pagina": "progetti-villa-staub.html",
+    "orientamento": "landscape",
+    "file": "foto/p05.webp"
+  },
+  {
+    "id": "p06",
+    "titolo": "Studio pediatrico Losone",
+    "indicazione": "Selezione del titolare · vista principale",
+    "pagina": "progetti-studio-pediatrico-losone.html",
+    "orientamento": "landscape",
+    "file": "foto/p06.webp"
+  },
+  {
+    "id": "p07",
+    "titolo": "Residenza Carol",
+    "indicazione": "Selezione del titolare · vista principale",
+    "pagina": "progetti-residenza-carol.html",
+    "orientamento": "landscape",
+    "file": "foto/p07.webp"
+  },
+  {
+    "id": "p08",
+    "titolo": "Casa Soffietto",
+    "indicazione": "Selezione del titolare · vista principale",
+    "pagina": "progetti-casa-soffietto.html",
+    "orientamento": "landscape",
+    "file": "foto/p08.webp"
+  },
+  {
+    "id": "p01",
+    "titolo": "Casa F.",
+    "indicazione": "Scelta hero · immagine orizzontale di forte impatto",
+    "pagina": "progetti-casa-f.html",
+    "orientamento": "landscape",
+    "file": "foto/p01.webp"
+  },
+  {
+    "id": "p01-detail-a",
+    "titolo": "Casa F. / spazio",
+    "indicazione": "Seconda fotografia: vista generale o ambiente",
+    "pagina": "progetti-casa-f.html",
+    "orientamento": "landscape",
+    "file": "foto/p01-detail-a.webp"
+  },
+  {
+    "id": "p01-detail-b",
+    "titolo": "Casa F. / dettaglio",
+    "indicazione": "Terza fotografia: matericità o particolare",
+    "pagina": "progetti-casa-f.html",
+    "orientamento": "portrait",
+    "file": "foto/p01-detail-b.webp"
+  },
+  {
+    "id": "p02",
+    "titolo": "Studio dermatologico",
+    "indicazione": "Scelta hero · immagine orizzontale di forte impatto",
+    "pagina": "progetti-studio-dermatologico.html",
+    "orientamento": "landscape",
+    "file": "foto/p02.webp"
+  },
+  {
+    "id": "p02-detail-a",
+    "titolo": "Studio dermatologico / spazio",
+    "indicazione": "Seconda fotografia: vista generale o ambiente",
+    "pagina": "progetti-studio-dermatologico.html",
+    "orientamento": "landscape",
+    "file": "foto/p02-detail-a.webp"
+  },
+  {
+    "id": "p02-detail-b",
+    "titolo": "Studio dermatologico / dettaglio",
+    "indicazione": "Terza fotografia: matericità o particolare",
+    "pagina": "progetti-studio-dermatologico.html",
+    "orientamento": "portrait",
+    "file": "foto/p02-detail-b.webp"
+  },
+  {
+    "id": "p03",
+    "titolo": "Ufficio IPRAC",
+    "indicazione": "Scelta hero · immagine orizzontale di forte impatto",
+    "pagina": "progetti-ufficio-iprac.html",
+    "orientamento": "landscape",
+    "file": "foto/p03.webp"
+  },
+  {
+    "id": "p03-detail-a",
+    "titolo": "Ufficio IPRAC / spazio",
+    "indicazione": "Seconda fotografia: vista generale o ambiente",
+    "pagina": "progetti-ufficio-iprac.html",
+    "orientamento": "landscape",
+    "file": "foto/p03-detail-a.webp"
+  },
+  {
+    "id": "p03-detail-b",
+    "titolo": "Ufficio IPRAC / dettaglio",
+    "indicazione": "Terza fotografia: matericità o particolare",
+    "pagina": "progetti-ufficio-iprac.html",
+    "orientamento": "portrait",
+    "file": "foto/p03-detail-b.webp"
+  },
+  {
+    "id": "p04",
+    "titolo": "Attico Villa Diana",
+    "indicazione": "Scelta hero · immagine orizzontale di forte impatto",
+    "pagina": "progetti-attico-villa-diana.html",
+    "orientamento": "landscape",
+    "file": "foto/p04.webp"
+  },
+  {
+    "id": "p04-detail-a",
+    "titolo": "Attico Villa Diana / spazio",
+    "indicazione": "Seconda fotografia: vista generale o ambiente",
+    "pagina": "progetti-attico-villa-diana.html",
+    "orientamento": "landscape",
+    "file": "foto/p04-detail-a.webp"
+  },
+  {
+    "id": "p04-detail-b",
+    "titolo": "Attico Villa Diana / dettaglio",
+    "indicazione": "Terza fotografia: matericità o particolare",
+    "pagina": "progetti-attico-villa-diana.html",
+    "orientamento": "portrait",
+    "file": "foto/p04-detail-b.webp"
+  },
+  {
+    "id": "p05",
+    "titolo": "Villa Staub",
+    "indicazione": "Scelta hero · immagine orizzontale di forte impatto",
+    "pagina": "progetti-villa-staub.html",
+    "orientamento": "landscape",
+    "file": "foto/p05.webp"
+  },
+  {
+    "id": "p05-detail-a",
+    "titolo": "Villa Staub / spazio",
+    "indicazione": "Seconda fotografia: vista generale o ambiente",
+    "pagina": "progetti-villa-staub.html",
+    "orientamento": "landscape",
+    "file": "foto/p05-detail-a.webp"
+  },
+  {
+    "id": "p05-detail-b",
+    "titolo": "Villa Staub / dettaglio",
+    "indicazione": "Terza fotografia: matericità o particolare",
+    "pagina": "progetti-villa-staub.html",
+    "orientamento": "portrait",
+    "file": "foto/p05-detail-b.webp"
+  },
+  {
+    "id": "p06",
+    "titolo": "Studio pediatrico Losone",
+    "indicazione": "Scelta hero · immagine orizzontale di forte impatto",
+    "pagina": "progetti-studio-pediatrico-losone.html",
+    "orientamento": "landscape",
+    "file": "foto/p06.webp"
+  },
+  {
+    "id": "p06-detail-a",
+    "titolo": "Studio pediatrico Losone / spazio",
+    "indicazione": "Seconda fotografia: vista generale o ambiente",
+    "pagina": "progetti-studio-pediatrico-losone.html",
+    "orientamento": "landscape",
+    "file": "foto/p06-detail-a.webp"
+  },
+  {
+    "id": "p06-detail-b",
+    "titolo": "Studio pediatrico Losone / dettaglio",
+    "indicazione": "Terza fotografia: matericità o particolare",
+    "pagina": "progetti-studio-pediatrico-losone.html",
+    "orientamento": "portrait",
+    "file": "foto/p06-detail-b.webp"
+  },
+  {
+    "id": "p07",
+    "titolo": "Residenza Carol",
+    "indicazione": "Scelta hero · immagine orizzontale di forte impatto",
+    "pagina": "progetti-residenza-carol.html",
+    "orientamento": "landscape",
+    "file": "foto/p07.webp"
+  },
+  {
+    "id": "p07-detail-a",
+    "titolo": "Residenza Carol / spazio",
+    "indicazione": "Seconda fotografia: vista generale o ambiente",
+    "pagina": "progetti-residenza-carol.html",
+    "orientamento": "landscape",
+    "file": "foto/p07-detail-a.webp"
+  },
+  {
+    "id": "p07-detail-b",
+    "titolo": "Residenza Carol / dettaglio",
+    "indicazione": "Terza fotografia: matericità o particolare",
+    "pagina": "progetti-residenza-carol.html",
+    "orientamento": "portrait",
+    "file": "foto/p07-detail-b.webp"
+  },
+  {
+    "id": "p08",
+    "titolo": "Casa Soffietto",
+    "indicazione": "Scelta hero · immagine orizzontale di forte impatto",
+    "pagina": "progetti-casa-soffietto.html",
+    "orientamento": "landscape",
+    "file": "foto/p08.webp"
+  },
+  {
+    "id": "p08-detail-a",
+    "titolo": "Casa Soffietto / spazio",
+    "indicazione": "Seconda fotografia: vista generale o ambiente",
+    "pagina": "progetti-casa-soffietto.html",
+    "orientamento": "landscape",
+    "file": "foto/p08-detail-a.webp"
+  },
+  {
+    "id": "p08-detail-b",
+    "titolo": "Casa Soffietto / dettaglio",
+    "indicazione": "Terza fotografia: matericità o particolare",
+    "pagina": "progetti-casa-soffietto.html",
+    "orientamento": "portrait",
+    "file": "foto/p08-detail-b.webp"
+  }
+]
