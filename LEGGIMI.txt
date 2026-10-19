@@ -1,9 +1,0 @@
-IPRAC | Versione GitHub Pages SENZA CARTELLE
-
-Carica sul repository TUTTI i file .html di questa cartella, mantenendo i nomi. NON rinominare i file. index.html deve stare nella pagina principale del repository.
-
-In GitHub -> Settings -> Pages -> Deploy from a branch -> main -> /(root).
-
-Tutte le 23 pagine HTML sono autonome, con stile e logo incorporati.
-
-Attenzione: questo prototipo non contiene ancora foto originali dei progetti e il form e dimostrativo.
