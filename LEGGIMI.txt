@@ -1,0 +1,1 @@
+IPRAC DESIGN BIANCO E VERDE. Versione autonoma per GitHub Pages. Caricare i file HTML nella root. I fogli di stile e script sono incorporati in ciascuna pagina. Non eliminare la cartella .git del repository locale. Non sono ancora presenti fotografie dei progetti. Prima di una pubblicazione istituzionale confermare testi e dati.
