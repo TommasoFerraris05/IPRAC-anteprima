@@ -1,10 +1,6 @@
-IPRAC V2 PILOT
+IPRAC — RELEASE ANTEPRIMA PER RIUNIONE
 
-Contenuto:
-- index.html (homepage manifesto)
-- competenze-architettura.html (pagina competenza pilota)
-- progetti-casa-f.html (pagina progetto pilota)
-- cartella assets con style.css, script.js, logo-iprac.jpg
-
-Scopo:
-Validare una direzione molto più spettacolare e immersiva prima di rifare l'intero sito.
+Caricare tutto il contenuto della cartella nella root del repository GitHub Pages.
+Tutti gli HTML sono nella stessa cartella e incorporano CSS, JS e logo per evitare errori di percorso.
+index.html è la homepage. Questa è una proposta grafica da valutare, non un sito aziendale ufficiale.
+Le immagini dei progetti non sono incluse: i segnaposto sono dichiarati. Le informazioni tecniche e legali devono essere validate.
